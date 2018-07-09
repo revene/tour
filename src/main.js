@@ -3,8 +3,11 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import './assets/style/reset.css'
+import fastClick from 'fastClick'
 
 Vue.config.productionTip = false
+fastClick.attach(document.body)
 
 /* eslint-disable no-new */
 new Vue({
@@ -13,3 +16,4 @@ new Vue({
   components: { App },
   template: '<App/>'
 })
+
