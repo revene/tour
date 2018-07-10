@@ -1,6 +1,5 @@
 <template>
-<<<<<<< HEAD
-	<div>hello world 333454545</div>
+	<div>hello world</div>
 </template>
 
 <script>
