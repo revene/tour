@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
 	<div>hello world 333454545</div>
 </template>
 
